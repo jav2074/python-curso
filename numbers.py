@@ -13,6 +13,7 @@ print(2 * 3)
 print(2 * 3.5)
 print(2 ** 3)       # exponente
 print((2 * 3.5)/(23 ** 2))
+print(2 ** (1/2))      # raiz
 
 
 #Pedir que el usuario ingrese algun dato
