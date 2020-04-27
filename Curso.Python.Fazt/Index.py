@@ -1,10 +1,3 @@
-print("hello world")
-print("Hola Mundo")
-print("Chau" + "Mundo")
-
-########################################################################
-print('########################################################################')
-
 print('hello')
 
 # List 
@@ -40,3 +33,5 @@ print(myStr.count('l'))#Metodo para contar cuantas veces esta escrito la letra '
 
 age = input("Insert your age: ")
 print("age: " + age)
+
+
