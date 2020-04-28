@@ -15,6 +15,7 @@ print(timedelta(minutes=170))       # convert min a hs.
 print(date.today())                 # fecha
 print('########################################################################')
 # Modulos propios
+# https://recursospython.com/guias-y-manuales/colorama-texto-fondo-coloreados-la-consola/
 from fmath import add, subs 
 
 add(2, 4)
