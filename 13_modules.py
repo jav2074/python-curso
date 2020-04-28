@@ -24,6 +24,8 @@ print('########################################################################'
 # pip --version
 # python -m pip install --upgrade pip
 # pip install colorama
-from colorama import Fore, Style
-print(Fore.red + 'Hola Colorama')
+from colorama import Fore, Style, init
+init()
+print(Fore.RED + 'Hola Colorama')
+print(Fore.GREEN + "Recursos Python")
 print('########################################################################')
